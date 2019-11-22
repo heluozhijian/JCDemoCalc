@@ -1,5 +1,4 @@
 ﻿#include "JCDemoCalc.h"
-#include "ui_JCDemoCalc.h"
 
 #include <Windows.h>
 #include <QDebug>
